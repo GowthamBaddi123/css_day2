@@ -1,0 +1,120 @@
+body{
+    background-color: black;
+}
+
+
+.main{
+    width: fit-content;
+    margin: auto;
+   
+    box-sizing: inherit;
+    /* display: table;
+    clear:both; */
+    display:grid;
+    grid-template-columns:auto auto;
+    column-gap: 70px;
+}
+
+.php-bg-color{
+    color:black;
+    background-color:#FFC0C7;
+    padding:24px;
+    border-radius: 20px;
+
+}
+.jQuery{
+    background-color: #FFF4A3;
+    color:black;
+    padding:24px;
+    border-radius: 20px;
+}
+.java{
+    color:black;
+    background-color:#F3ECEA;
+    padding:24px;
+    border-radius: 20px;
+}
+.cplus{
+    color:black;
+    background-color:#D9EEE1;
+    padding:24px;
+    border-radius: 20px;
+}
+.css{
+    color:black;
+    background-color:#96D4D4;
+    padding:24px;
+    border-radius: 20px;
+}
+.bootstrap{
+    color:black;
+    background-color:#E7E9EB;
+    padding:24px;
+    border-radius: 20px;
+}
+h2{
+    font-size:45px;
+    font-weight:700;
+}
+.box-height{
+    height:70px;
+}
+.class {
+    width: 600px;
+    text-align: center;
+    padding: 20px;
+}
+.baddi {
+    display: flex;
+    justify-content: space-around;
+    margin-left: 10px;
+    margin-right: 13px;
+    margin-top: 50px;
+}
+.bad {
+    width: 600px;
+    text-align: center;
+}
+
+.psp{
+    display:grid;
+    grid-template-columns: auto auto auto auto;    
+    margin-left: 60px;
+    margin-right: 50px;
+    row-gap: 20px;
+    
+}
+.w3-col{
+    width: 300px;
+    text-align: center;
+    
+}
+
+.gg {
+    display: flex;
+    justify-content: space-around;
+    margin-left: 10px;
+    margin-right: 13px;
+    margin-top: 50px;
+    
+}
+
+.w4-col {
+    width: 600px;
+    text-align: center;
+}
+.bg {
+    display: flex;
+    justify-content: space-around;
+    margin-left: 10px;
+    margin-right: 13px;
+    margin-top: 50px;
+}
+
+.w5-col{
+    width: 600px;
+    text-align: center;
+}
+
+
+    

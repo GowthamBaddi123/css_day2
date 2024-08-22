@@ -1,0 +1,198 @@
+/* body{
+    background-image: url(https://i0.wp.com/picjumbo.com/wp-content/uploads/violet-colorful-sunset-sky-on-the-beach-free-photo.jpeg?w=600&quality=80),url(https://i0.wp.com/picjumbo.com/wp-content/uploads/violet-colorful-sunset-sky-on-the-beach-free-photo.jpeg?w=600&quality=80),url(https://i0.wp.com/picjumbo.com/wp-content/uploads/violet-colorful-sunset-sky-on-the-beach-free-photo.jpeg?w=600&quality=80);
+    width:200px;
+    height:300px;
+    background-repeat:repeat;
+    background-position: top right;
+    background-position: top left;
+    background: rgba( 247, 152, 152, 0.2 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 8.5px );
+    -webkit-backdrop-filter: blur( 8.5px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+
+} */
+
+/* body{
+    background-color: red;
+    width:100%;
+    heigth: 500px
+    background-image: url(https://www.shutterstock.com/image-photo/beautiful-pink-flower-anemones-fresh-260nw-1028135845.jpg),url(https://www.shutterstock.com/image-photo/beautiful-pink-flower-anemones-fresh-260nw-1028135845.jpg),url(https://www.shutterstock.com/image-photo/beautiful-pink-flower-anemones-fresh-260nw-1028135845.jpg);
+    background-attachment: fixed;
+    background-position
+} */
+
+
+.a1{
+    width:100%;
+    height:780px;
+    background-image: url(https://jaro-website.s3.ap-south-1.amazonaws.com/2024/07/IMG-20220603-WA0011.jpg );
+    background-repeat: no-repeat;
+    background-size: 100% 780px;
+    background-attachment:fixed;
+}
+
+.a2{
+    width:100%;
+    height:700px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEc9A_S6BPxCDRp5WjMFEfXrpCu1ya2OO-Lw&s);
+    background-repeat: no-repeat;
+    background-size:300px;
+    background-position: center;
+    background-attachment:fixed;
+}
+.a3{
+    width:100%;
+    height:500px;
+    background-image: url(https://1000logos.net/wp-content/uploads/2020/09/CSS-Logo.png);
+    background-repeat: no-repeat;
+    background-size: 500px;
+    background-position: center;
+    background-attachment:fixed;
+}
+.a4{
+    width:100%;
+    height:500px;
+    background-image: url(https://media.licdn.com/dms/image/D4E12AQFfe1nZbaWdMw/article-cover_image-shrink_720_1280/0/1698604163003?e=2147483647&v=beta&t=rtD52hfy37nFVmc4_MXfnflV6C-ke773W70SYJLoWRc);
+    background-repeat: no-repeat;
+    background-size:  600px;
+    background-position: center;
+    background-attachment:fixed;
+}
+.a5{
+    width:100%;
+    height:500px;
+    background-image: url(https://ih1.redbubble.net/image.523773899.2261/raf,360x360,075,t,fafafa:ca443f4786.u1.jpg);
+    background-repeat: no-repeat;
+    background-size: 400px;
+    background-position: center;
+    background-attachment:fixed;
+}
+.a6{
+    width:100%;
+    height:500px;
+    background-image: url(https://www.searchenginejournal.com/wp-content/uploads/2019/04/the-seo-guide-to-angular.png);
+    background-repeat: no-repeat;
+    background-size: 500px;
+    background-position: center;
+    background-attachment:fixed;
+}
+.a7{
+    width:100%;
+    height:500px;
+    background-image: url(https://w7.pngwing.com/pngs/492/902/png-transparent-vuejs-original-wordmark-logo-icon.png);
+    background-repeat: no-repeat;
+    background-size:  300px;
+    background-position: center;
+    background-attachment:fixed;
+}
+.a8{
+    width:100%;
+    height:500px;
+    background-image: url(https://yt3.googleusercontent.com/S_jCjJ8LPuRsFIqvylgNcNtTjjxgPhqTPXgCsUaaunSaAQCJhhXdpULwvFSJ9aITaqSbJmqu=s900-c-k-c0x00ffffff-no-rj);
+    background-repeat: no-repeat;
+    background-size:  200px;
+    background-position: center;
+    background-attachment:fixed;
+}
+.a9{
+    width:100%;
+    height:500px;
+    background-image: url(https://blog.theodo.com/_astro/ts_logo.BstCNrTU_1Dbxpr.webp);
+    background-repeat: no-repeat;
+    background-size:  400px;
+    background-position: center;
+    background-attachment:fixed;
+}
+.a10{
+    width:100%;
+    height:500px;
+    background-image: url(https://images.ctfassets.net/9ynx8gh7pmzk/5jK42HYdTS1VpzDMx241rO/e96fd37d0a3b237285c5eb4be67918ca/1_mS5L6wvjhgBYZFZS-2NaxQ.png?w=800&h=536&q=100&fm=png);
+    background-repeat: no-repeat;
+    background-size: 400px;
+    background-position: center;
+    background-attachment:fixed;
+}
+.a11{
+    width:100%;
+    height:700px;
+    background-image: url(https://www.simplilearn.com/ice9/free_resources_article_thumb/React_Native_Tutorial.jpg);
+    background-repeat: no-repeat;
+    background-size:  400px;
+    background-position: center;
+    background-attachment:fixed;
+}
+
+.backend-technologies{
+    width:100%;
+    height:780px;
+    background-image: url(https://www.finoit.com/wp-content/uploads/2023/03/best-backend-technologies.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 780px;
+    background-attachment:fixed;
+}
+.b1{
+    width:100%;
+    height:700px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYZqZkpMyiN2uSuT7GAf6JSkJ44YsZqoQHdw&s);
+    background-repeat: no-repeat;
+    background-size:  400px;
+    background-position: center;
+    background-attachment:fixed;
+}
+.b2{
+    width:100%;
+    height:700px;
+    background-image: url(https://res.cloudinary.com/practicaldev/image/fetch/s--K5R1iZvv--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_800/https://suvink9.files.wordpress.com/2018/05/1_6br8eymfdrvlb408tunk-g.jpeg);
+    background-repeat: no-repeat;
+    background-size:  400px;
+    background-position: center;
+    background-attachment:fixed;
+}
+.b3{
+    width:100%;
+    height:700px;
+    background-image: url(https://logolook.net/wp-content/uploads/2022/11/Java-Logo.png);
+    background-repeat: no-repeat;
+    background-size:  400px;
+    background-position: center;
+    background-attachment:fixed;
+}
+.b4{
+    width:100%;
+    height:700px;
+    background-image: url(https://s7280.pcdn.co/wp-content/uploads/2020/08/go-programming-300x169.png);
+    background-repeat: no-repeat;
+    background-size:  400px;
+    background-position: center;
+    background-attachment:fixed;
+}
+.b5{
+    width:100%;
+    height:700px;
+    background-image: url(https://infostride.com/wp-content/uploads/2023/04/nodejs-min.jpg);
+    background-repeat: no-repeat;
+    background-size:  400px;
+    background-position: center;
+    background-attachment:fixed;
+}
+.b6{
+    width:100%;
+    height:700px;
+    background-image: url(https://img-c.udemycdn.com/course/240x135/2390114_404d_5.jpg);
+    background-repeat: no-repeat;
+    background-size:  400px;
+    background-position: center;
+    background-attachment:fixed;
+}
+
+
+/* -webkit-text-size-adjust: 100%;
+font-size: 15px;
+line-height: 1.5;
+font-family: 'Source Sans Pro', sans-serif;
+box-sizing: inherit;
+color: #000!important;
+background-color: #fff!important; */
+
